@@ -1,2 +1,2 @@
 # http
-Http Parser
+Crossplatform C++ Http Parser class library
